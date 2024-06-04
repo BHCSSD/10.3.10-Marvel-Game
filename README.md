@@ -43,8 +43,7 @@ Use the `dist()` function and the radius of your button in a new `IF` statement 
 
 
 
-```
-
+```javaScript
 //Ironman, Groot, Spiderman, Wanda, Black Widow, Loki, Nebuba
 let scenenum = 1;
 let isHuman = false;
